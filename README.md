@@ -99,6 +99,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Você pode acessar o link abaixo e visualizar o deploy:
 
+https://drop-mail-challenge-rust.vercel.app
+
 **OU**
 
 1. Clone o repositório do projeto:
