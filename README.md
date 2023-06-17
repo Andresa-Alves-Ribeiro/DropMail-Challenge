@@ -127,6 +127,15 @@ npm start
 </br>
 e em seguida vá para o seu navegador em http://localhost:3000 para visualizar a página acima.
 
+</br>
+
+**Se o projeto não conseguir rodar os links, faça os seguintes passos:**
+1- Entre no seguinte link: https://cors-anywhere.herokuapp.com/https://dropmail.me/api/graphql/andresaalvestoken
+
+2 - Clique no botão que aparece na página 
+
+3 - Volte a página e recarregue-a
+
 &nbsp;
 <a id="-autor"></a>
 
